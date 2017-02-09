@@ -34,19 +34,4 @@ jQuery(document).ready(function() {
     	$(this).removeClass('input-error');
     });
     
-    $('.registration-form').on('submit', function(e) {
-    	
-    	$(this).find('input[type="text"], textarea').each(function(){
-    		if( $(this).val() == "" ) {
-    			e.preventDefault();
-    			$(this).addClass('input-error');
-    		}
-    		else {
-    			$(this).removeClass('input-error');
-    		}
-    	});
-    	
-    });
-    
-    
-});
+
