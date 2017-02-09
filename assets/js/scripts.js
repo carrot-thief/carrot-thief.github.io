@@ -33,5 +33,6 @@ jQuery(document).ready(function() {
     $('.registration-form input[type="text"], .registration-form textarea').on('focus', function() {
     	$(this).removeClass('input-error');
     });
+        
     
-
+});
