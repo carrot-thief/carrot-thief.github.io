@@ -1,6 +1,5 @@
 
 jQuery(document).ready(function() {
-	
     /*
         Fullscreen background
     */
@@ -36,3 +35,4 @@ jQuery(document).ready(function() {
         
     
 });
+
