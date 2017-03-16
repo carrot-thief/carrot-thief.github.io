@@ -6,18 +6,19 @@ body {
     color: #888;
     line-height: 30px;
     text-align: center;
-
-background: rgb(237,198,93); /* Old browsers */
-background: rgb(237,198,93); /* Old browsers */
-background: -moz-linear-gradient(top, rgba(237,198,93,1) 0%, rgba(248,113,32,1) 100%) no-repeat center center fixed; /* FF3.6-15 */
-background: -webkit-linear-gradient(top, rgba(237,198,93,1) 0%,rgba(248,113,32,1) 100%) no-repeat center center fixed; /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom, rgba(237,198,93,1) 0%,rgba(248,113,32,1) 100%) no-repeat center center fixed; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#edc65d', endColorstr='#f87120',GradientType=0 ) no-repeat center center fixed; /* IE6-9 *//* IE6-9 */
+/*
+background: rgb(237,198,93); 
+background: rgb(237,198,93); 
+background: -moz-linear-gradient(top, rgba(237,198,93,1) 0%, rgba(248,113,32,1) 100%) no-repeat center center fixed; 
+background: -webkit-linear-gradient(top, rgba(237,198,93,1) 0%,rgba(248,113,32,1) 100%) no-repeat center center fixed; 
+background: linear-gradient(to bottom, rgba(237,198,93,1) 0%,rgba(248,113,32,1) 100%) no-repeat center center fixed; 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#edc65d', endColorstr='#f87120',GradientType=0 ) no-repeat center center fixed; 
 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  */
 
 }
 
