@@ -117,7 +117,7 @@ img { max-width: 100%; }
 .form-top-left {
 	float: left;
 	width: 75%;
-	padding-top: 25px;
+	padding-top: 42px;
 }
 
 .form-top-left h3 { margin-top: 0; }
@@ -217,4 +217,17 @@ footer a:hover, footer a:focus { color: #fff; border-bottom: 1px dotted #fff; }
 {
 	color: red;
 }
+.carousel
+{
 
+}
+.carousel .item img{
+    margin:0 auto; /* Align slide image horizontally center */
+}
+.bs-example{
+}
+
+.carousel-control 
+{
+background-image: none !important;
+}
